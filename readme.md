@@ -7,8 +7,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* https://github.com/SvetlanaKS/HWJava1/issues/1#issue-948477144
-* https://github.com/SvetlanaKS/HWJava1/issues/2#issue-948490538
+* [Номер карты Visa 4539625049648685639 не валидный при тестировании функционала валидации банковской карты](https://github.com/SvetlanaKS/HWJava1/issues/1#issue-948477144)
+* [Номер карты Visa 6011067803549177879 не валидный при тестировании функционала валидации банковской карты](https://github.com/SvetlanaKS/HWJava1/issues/2#issue-948490538)
 
 
 ## Описание процесса тестирования
